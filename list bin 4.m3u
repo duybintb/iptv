@@ -416,7 +416,6 @@ https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Dự phòng" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 HD | TRUYỀN HÌNH THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://live.hanoitv.vn/hntvlive/tv2live.m3u8
-ls/httv.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Dự phòng" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV HD | Truyền hình Hà Tĩnh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
